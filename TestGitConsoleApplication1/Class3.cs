@@ -9,5 +9,6 @@ namespace TestGitConsoleApplication1
     class Class3
     {
         //Class 3 NewBranch2
+        //Class3 in New Branch
     }
 }
