@@ -9,5 +9,6 @@ namespace TestGitConsoleApplication1
     class Class1
     {
         //change 1. in class 1
+        //Make a changes on the Server version
     }
 }
