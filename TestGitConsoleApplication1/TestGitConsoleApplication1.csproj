@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="br1Clas2.cs" />
+    <Compile Include="br1Class3.cs" />
     <Compile Include="branch1Class1.cs" />
     <Compile Include="Class1.cs" />
     <Compile Include="Class2.cs" />
