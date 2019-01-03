@@ -11,5 +11,6 @@ namespace TestGitConsoleApplication1
         //new class in new branch Test1
         //one more row to test 1 branch 1
         // row 3 
+        // row 4 - 2
     }
 }
